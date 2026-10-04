@@ -1,0 +1,18 @@
+﻿Türkçe:
+İlk olarak discordun hesap açma kısmına gelin hesap ismini şifresini girin ve mail isteyen kısma ise örneğin
+mehmetbilmemne@gmail.com yerine
+mehmetbilmemne+1@gmail.com yazın (sizin var olan mailinize kod gelmesini falan istiyorsanız kendi mailinizi yazın başa son ra +1 veya +2 gibi kaç hesap varsa ekleyin ve böyle istediğiniz kadar hesap açarsınız)
+------------UYARI----------
+hesaplar bir süre sonra numara doğrulaması ister |
+English:
+First, go to the Discord sign-up page, enter the account name and password, and in the email field, instead of e.g.
+mehmetbilmemne@gmail.com, write
+mehmetbilmemne+1@gmail.com (if you want the verification code to be sent to your existing email, write your own email at the beginning, then add +1 or +2 depending on how many accounts you have, and this way you can create as many accounts as you want)
+------------WARNING----------
+Accounts will require phone verification after a while |
+Русский:
+Сначала перейдите на страницу регистрации Discord, введите имя аккаунта и пароль, а в поле для электронной почты вместо, например,
+mehmetbilmemne@gmail.com напишите
+mehmetbilmemne+1@gmail.com (если вы хотите, чтобы код подтверждения приходил на вашу существующую почту, укажите свою почту в начале, а затем добавьте +1 или +2 в зависимости от количества аккаунтов, и таким образом вы сможете создать столько аккаунтов, сколько захотите)
+------------ВНИМАНИЕ----------
+Через некоторое время аккаунты потребуют подтверждения по номеру телефона |
